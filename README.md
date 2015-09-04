@@ -1,5 +1,7 @@
 # pre-commit sass-lint mirror
 
+**sass-lint doesn't quite seem ready for this...will revisit later.**
+
 Mirror of `sass-lint` package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
