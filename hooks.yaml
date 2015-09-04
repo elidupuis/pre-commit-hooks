@@ -1,0 +1,5 @@
+-   id: sass-lint
+    name: sass-lint
+    entry: sass-lint
+    language: node
+    files: \.scss$

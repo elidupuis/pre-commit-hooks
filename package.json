@@ -1,0 +1,8 @@
+{
+    "name": "__dummy_package",
+    "description": "...so pre-commit knows what's up.",
+    "version": "0.0.0",
+    "scripts": {
+        "preinstall": "npm install sass-lint@1.1.0 -g"
+    }
+}
