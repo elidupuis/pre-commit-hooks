@@ -1,5 +1,5 @@
 {
-    "name": "__dummy_package",
+    "name": "pre-commit-sass-lint",
     "description": "...so pre-commit knows what's up.",
     "version": "0.0.0",
     "scripts": {

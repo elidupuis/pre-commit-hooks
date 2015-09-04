@@ -2,4 +2,4 @@
     name: sass-lint
     entry: sass-lint
     language: node
-    files: \.scss$
+    files: \.(scss|sass)$
